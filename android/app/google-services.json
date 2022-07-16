@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "169508583043",
+    "project_id": "sanskrit-music-player",
+    "storage_bucket": "sanskrit-music-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169508583043:android:a0d52eeb101e3e273f0db6",
+        "android_client_info": {
+          "package_name": "com.example.sanskrit_music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169508583043-o04r78otv1qcvoet9b877f0f6m14gr7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanskrit_music_player",
+            "certificate_hash": "7a9a3da2fa8c27cc6a4ca32da1da8db73a628773"
+          }
+        },
+        {
+          "client_id": "169508583043-eo75kdvm1h0ikrfo1i6680009iuld6dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWItkuYa--33BVwHjtle4mtBfHtBQyxgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169508583043-eo75kdvm1h0ikrfo1i6680009iuld6dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
